@@ -1,5 +1,5 @@
 # -dir-er-for-vk-styles
-Easy programm with a narrow application. Adds `[dir]` in every block which name contains "."
+Easy programm with a narrow application. Adds `[dir]` (or another text) in every block which name contains "."
 in other words, conferts something like this:
 ```
 .ui_search_sugg_list .ui_search_sugg_history_header
